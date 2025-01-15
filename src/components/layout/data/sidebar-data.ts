@@ -56,7 +56,7 @@ export const sidebarData: SidebarData = {
         },
         {
           title: 'Transactions',
-          url: '/xns',
+          url: '/tasks',
           icon: IconChecklist,
         },
         {
