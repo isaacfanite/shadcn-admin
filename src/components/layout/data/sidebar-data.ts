@@ -55,6 +55,16 @@ export const sidebarData: SidebarData = {
           icon: IconLayoutDashboard,
         },
         {
+          title: 'Transactions',
+          url: '/tasks',
+          icon: IconChecklist,
+        },
+        {
+          title: 'Balance',
+          url: '/tasks',
+          icon: IconChecklist,
+        },
+        {
           title: 'Tasks',
           url: '/tasks',
           icon: IconChecklist,
